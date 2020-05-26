@@ -6,8 +6,7 @@
   },
   "flex-layout.row#test":{
     "children": [
-          "info-card#rethink",
-          "flex-layout.col#images"
+            "flex-layout.col#images"
           ]
       },
  "flex-layout.col#images":{
@@ -17,15 +16,6 @@
    ]
  },
   
- "info-card#rethink": {
-    "props": {
-      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
-      "isFullModeStyle": true,
-      "headline": "Time to rethink your kitchen",
-      "callToActionText": "Discover",
-      "textPosition": "center"
-    }
-  },
 
   "image#electronics": {
   "props": {
