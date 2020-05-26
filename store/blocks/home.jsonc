@@ -1,20 +1,21 @@
 {
   "store.home": {
     "blocks": [
-      "info-card#rethink"
+      "flex-layout.row#test"
     ]
   },
-  "flex-layout.row":{
+  "flex-layout.row#test":{
     "children": [
-      "info-card#rethink",
-      "flex-layout.col":{
-          "children": [
-            image#electronics,
-            image#major-appliance
+          "info-card#rethink",
+          "flex-layout.col#images"
           ]
-      }
-    ]
-  },
+      },
+ "flex-layout.col#images":{
+   "children":[
+      "image#electronics",
+      "image#major-appliance"
+   ]
+ },
   
  "info-card#rethink": {
     "props": {
