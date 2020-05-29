@@ -1,11 +1,11 @@
 {
   "store.home": {
     "blocks": [
-      "shelf"
+      "shelf#shelf"
     ]
   },
 
   "shelf#home": {
-    "blocks": ["flex-layout.row#shelf"]
+    "blocks": ["shelf"]
   }
 }
