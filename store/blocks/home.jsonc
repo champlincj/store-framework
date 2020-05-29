@@ -1,11 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "shelf"
+      "slider-layout"
     ]
   },
-
-  "shelf": {
-    "blocks": ["shelf"]
-  }
+  "slider-layout": {}
 }
