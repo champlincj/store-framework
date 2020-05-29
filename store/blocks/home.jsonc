@@ -1,11 +1,11 @@
 {
   "store.home": {
     "blocks": [
-      "shelf#shelf"
+      "shelf"
     ]
   },
 
-  "shelf#home": {
+  "shelf": {
     "blocks": ["shelf"]
   }
 }
