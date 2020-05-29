@@ -3,5 +3,9 @@
     "blocks": [
       "shelf"
     ]
+  },
+
+  "shelf#home": {
+    "blocks": ["flex-layout.row#shelf"]
   }
 }
