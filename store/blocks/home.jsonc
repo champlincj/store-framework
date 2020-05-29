@@ -1,8 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "slider-layout"
+      "slider-layout#home"
     ]
   },
-  "slider-layout": {}
+  "slider-layout#home": {}
 }
