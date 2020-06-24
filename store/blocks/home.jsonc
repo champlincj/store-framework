@@ -6,11 +6,7 @@
   },
   "rich-text": {
     "props": {
-<<<<<<< HEAD
-      "text": "**Hello, World2! **",
-=======
-      "text": "**Hello, World!  **",
->>>>>>> 01829e2d78282cef720ad4f2b33ac080f4c6b3ee
+      "text": "**Hello, World3! **",
       "textPosition": "RIGHT"
     }
   }
