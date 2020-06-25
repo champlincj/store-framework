@@ -47,6 +47,7 @@
         "fullWidth": "false"
     }
   },
+  
   "header-row#main-mobile": {
     "children": [
       "logo",
