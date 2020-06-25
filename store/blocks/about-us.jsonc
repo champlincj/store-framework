@@ -50,7 +50,7 @@
       },
       "tab-content.item#home2": {
         "children": [
-          "iframe#home2"
+          "iframe"
         ],
         "props": {
           "tabId": "instagram"
@@ -65,7 +65,7 @@
           "font": "t-heading-3"
         }
       },
-      "iframe#home2": {
+      "iframe": {
         "props": {
             "src": "https://pmdvod.nationalgeographic.com/NG_Video/896/255/130th%20thumb.jpg",
             "width": 400,
