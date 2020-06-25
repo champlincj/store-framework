@@ -3,14 +3,17 @@
         "children": [
         "menu-item#refrigerators",
         "menu-item#ovens",
-        "menu-item#washers",
-        "flex-layout.row#major"
+        "menu-item#washers"
         ],
         "props":{
         "orientation": "vertical"
         }
     },
-    
+    "vtex.menu@2.x:submenu#major": {
+        "children": [
+            "flex-layout.row#major"
+        ]
+    },
     "flex-layout.row#major": {
         "children": [
         "flex-layout.col#menu",
